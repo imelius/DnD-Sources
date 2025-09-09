@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "D&D/Unearthed Arcana/MassCombat.pdf",
-                "page": 1,
-                "left": -15,
-                "top": 744,
-                "zoom": 1.0637254901960784
+                "file": "Wargaming/Age of Fantasy/AoF - Quickstart #3 - v3.4.1 - START HERE.pdf",
+                "page": 3,
+                "left": -14,
+                "top": 702,
+                "zoom": 1.0935295303366255
               },
               "icon": "lucide-file-text",
-              "title": "MassCombat"
+              "title": "AoF - Quickstart #3 - v3.4.1 - START HERE"
             }
           }
         ]
@@ -176,6 +176,9 @@
   },
   "active": "7ebd9aedb5d5eeff",
   "lastOpenFiles": [
+    "Wargaming/Age of Fantasy/AoFS - Beginner_s Guide v3.4.1.pdf",
+    "Wargaming/Age of Fantasy/AoF - Quickstart #3 - v3.4.1 - START HERE.pdf",
+    "Wargaming/Age of Fantasy/AoF - Beginner_s Guide v3.4.1.pdf",
     "D&D/Unearthed Arcana/MassCombat.pdf",
     "Nimble/Nimble5eDigitalFiles/DMhelpercard.pdf"
   ]
