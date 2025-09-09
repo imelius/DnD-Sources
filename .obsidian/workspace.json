@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1823806bd4f103d4",
+        "id": "5a67c0af446d8817",
         "type": "tabs",
         "children": [
           {
-            "id": "83716b52f6e1950f",
+            "id": "7ebd9aedb5d5eeff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "D&D/Unearthed Arcana/MassCombat.pdf",
+                "page": 1,
+                "left": -15,
+                "top": 744,
+                "zoom": 1.0637254901960784
+              },
+              "icon": "lucide-file-text",
+              "title": "MassCombat"
             }
           }
         ]
@@ -74,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4960f2036103e3b2",
@@ -167,8 +174,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e92cce370c148231",
+  "active": "7ebd9aedb5d5eeff",
   "lastOpenFiles": [
+    "D&D/Unearthed Arcana/MassCombat.pdf",
     "Nimble/Nimble5eDigitalFiles/DMhelpercard.pdf"
   ]
 }
