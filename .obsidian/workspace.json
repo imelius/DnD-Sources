@@ -11,10 +11,16 @@
             "id": "7ebd9aedb5d5eeff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Shadowdark/Shadowdark RPG.pdf",
+                "page": 1,
+                "left": -5,
+                "top": 599,
+                "zoom": 2.7348224513172967
+              },
+              "icon": "lucide-file-text",
+              "title": "Shadowdark RPG"
             }
           }
         ]
@@ -167,8 +173,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e92cce370c148231",
+  "active": "7ebd9aedb5d5eeff",
   "lastOpenFiles": [
+    "Shadowdark/Shadowdark Quickstart/Shadowdark Player Quickstart - Digital.pdf",
+    "Shadowdark/Shadowdark RPG.pdf",
+    "Shadowdark/New folder",
+    "Shadowdark/Shadowdark Quickstart/Shadowdark Game Master Quickstart - Digital.pdf",
+    "Shadowdark/Shadowdark Quickstart/The Lost Citadel (68 wide x 44 high).png",
+    "Shadowdark/Shadowdark Quickstart/Shadowdark RPG Core-Cursed Scrolls.pdf",
     "Wargaming/Age of Fantasy/AoFS - Beginner_s Guide v3.4.1.pdf",
     "Wargaming/Age of Fantasy/AoF - Quickstart #3 - v3.4.1 - START HERE.pdf",
     "Wargaming/Age of Fantasy/AoF - Beginner_s Guide v3.4.1.pdf",
