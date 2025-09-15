@@ -4,23 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5a67c0af446d8817",
+        "id": "db45dd7050311eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "7ebd9aedb5d5eeff",
+            "id": "f02859e1e41c269e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Shadowdark/Shadowdark RPG.pdf",
-                "page": 1,
-                "left": -5,
-                "top": 599,
-                "zoom": 2.7348224513172967
+                "file": "Supplement/SandboxGenerator.pdf",
+                "page": 61,
+                "left": -14,
+                "top": 531,
+                "zoom": 1.1030253046280583
               },
               "icon": "lucide-file-text",
-              "title": "Shadowdark RPG"
+              "title": "SandboxGenerator"
+            }
+          },
+          {
+            "id": "4243855272dc466e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Supplement/SandboxGenerator.pdf",
+                "page": 8,
+                "left": -14,
+                "top": 232,
+                "zoom": 1.1030253046280583
+              },
+              "icon": "lucide-file-text",
+              "title": "SandboxGenerator"
             }
           }
         ]
@@ -80,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4960f2036103e3b2",
@@ -96,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Supplement/SandboxGenerator.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for SandboxGenerator"
             }
           },
           {
@@ -173,10 +191,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7ebd9aedb5d5eeff",
+  "active": "f02859e1e41c269e",
   "lastOpenFiles": [
-    "Shadowdark/Shadowdark Quickstart/Shadowdark Player Quickstart - Digital.pdf",
+    "Supplement/SandboxGenerator.pdf",
     "Shadowdark/Shadowdark RPG.pdf",
+    "Shadowdark/Shadowdark Quickstart/Shadowdark Player Quickstart - Digital.pdf",
     "Shadowdark/New folder",
     "Shadowdark/Shadowdark Quickstart/Shadowdark Game Master Quickstart - Digital.pdf",
     "Shadowdark/Shadowdark Quickstart/The Lost Citadel (68 wide x 44 high).png",
