@@ -11,10 +11,16 @@
             "id": "6623ed85f7ea18d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-Pocket_Character_Sheet_-_2024.pdf",
+                "page": 1,
+                "left": -5,
+                "top": 616,
+                "zoom": 2.8863636363636362
+              },
+              "icon": "lucide-file-text",
+              "title": "2635317-Pocket_Character_Sheet_-_2024"
             }
           }
         ]
@@ -170,6 +176,10 @@
   },
   "active": "e92cce370c148231",
   "lastOpenFiles": [
+    "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-pocket_character_sheet.pdf",
+    "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-instructions.jpg",
+    "D&D/Unearthed Arcana/MassCombat.pdf",
+    "D&D/24e/Character Sheets/456029-Druid_2024.pdf",
     "D&D/24e/Character Sheets/456029-Wizard_2024 1.pdf",
     "Supplement/SandboxGenerator.pdf",
     "Shadowdark/Shadowdark RPG.pdf",
@@ -178,9 +188,6 @@
     "Shadowdark/Shadowdark Quickstart/Shadowdark Game Master Quickstart - Digital.pdf",
     "Shadowdark/Shadowdark Quickstart/The Lost Citadel (68 wide x 44 high).png",
     "Shadowdark/Shadowdark Quickstart/Shadowdark RPG Core-Cursed Scrolls.pdf",
-    "Wargaming/Age of Fantasy/AoFS - Beginner_s Guide v3.4.1.pdf",
-    "Wargaming/Age of Fantasy/AoF - Quickstart #3 - v3.4.1 - START HERE.pdf",
-    "Wargaming/Age of Fantasy/AoF - Beginner_s Guide v3.4.1.pdf",
-    "D&D/Unearthed Arcana/MassCombat.pdf"
+    "Wargaming/Age of Fantasy/AoFS - Beginner_s Guide v3.4.1.pdf"
   ]
 }
