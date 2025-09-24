@@ -15,9 +15,9 @@
               "state": {
                 "file": "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-Pocket_Character_Sheet_-_2024.pdf",
                 "page": 1,
-                "left": -5,
+                "left": -25,
                 "top": 616,
-                "zoom": 2.8863636363636362
+                "zoom": 0.6060606060606061
               },
               "icon": "lucide-file-text",
               "title": "2635317-Pocket_Character_Sheet_-_2024"
@@ -176,6 +176,7 @@
   },
   "active": "e92cce370c148231",
   "lastOpenFiles": [
+    "D&D/24e/Monsters",
     "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-pocket_character_sheet.pdf",
     "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-instructions.jpg",
     "D&D/Unearthed Arcana/MassCombat.pdf",
@@ -187,7 +188,6 @@
     "Shadowdark/New folder",
     "Shadowdark/Shadowdark Quickstart/Shadowdark Game Master Quickstart - Digital.pdf",
     "Shadowdark/Shadowdark Quickstart/The Lost Citadel (68 wide x 44 high).png",
-    "Shadowdark/Shadowdark Quickstart/Shadowdark RPG Core-Cursed Scrolls.pdf",
-    "Wargaming/Age of Fantasy/AoFS - Beginner_s Guide v3.4.1.pdf"
+    "Shadowdark/Shadowdark Quickstart/Shadowdark RPG Core-Cursed Scrolls.pdf"
   ]
 }

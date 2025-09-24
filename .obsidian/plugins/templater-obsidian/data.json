@@ -1,0 +1,138 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "05) Homebrew Alley/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "04) Backlink Glossary/Actions",
+      "template": "05) Homebrew Alley/Templates/Auto Tag/Action Tag.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Conditions",
+      "template": "05) Homebrew Alley/Templates/Auto Tag/Condition Tag.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Equipment",
+      "template": "05) Homebrew Alley/Templates/Equipment.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Lore",
+      "template": "05) Homebrew Alley/Templates/Auto Tag/Lore Tag.md"
+    },
+    {
+      "folder": "04) Backlink Glossary",
+      "template": "05) Homebrew Alley/Templates/Auto Tag/Rule Tag.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Senses",
+      "template": "05) Homebrew Alley/Templates/Auto Tag/Sense Tag.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Skills",
+      "template": "05) Homebrew Alley/Templates/Auto Tag/Skill Tag.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Properties",
+      "template": "05) Homebrew Alley/Templates/Auto Tag/Weapon Property Tag.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Equipment/Armor",
+      "template": "05) Homebrew Alley/Templates/Armor.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Backgrounds",
+      "template": "05) Homebrew Alley/Templates/Background.md"
+    },
+    {
+      "folder": "03) Monsters",
+      "template": "05) Homebrew Alley/Templates/Creature.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Feats",
+      "template": "05) Homebrew Alley/Templates/Feat.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Magic Items",
+      "template": "05) Homebrew Alley/Templates/Magic Item.md"
+    },
+    {
+      "folder": "",
+      "template": "05) Homebrew Alley/Templates/Session Notes.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Species",
+      "template": "05) Homebrew Alley/Templates/Species.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Spells",
+      "template": "05) Homebrew Alley/Templates/Spell.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Equipment/Tools",
+      "template": "05) Homebrew Alley/Templates/Tool.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Equipment/Weapons",
+      "template": "05) Homebrew Alley/Templates/Weapon.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Class Features/Sorcerer/Metamagic",
+      "template": "05) Homebrew Alley/Templates/Metamagic Option.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Class Features/Warlock/Eldritch Invocations",
+      "template": "05) Homebrew Alley/Templates/Eldritch Invocation.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Contagions",
+      "template": "05) Homebrew Alley/Templates/Contagion.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Equipment/Poison",
+      "template": "05) Homebrew Alley/Templates/Poison.md"
+    },
+    {
+      "folder": "04) Backlink Glossary/Traps",
+      "template": "05) Homebrew Alley/Templates/Trap.md"
+    },
+    {
+      "folder": "06) The Corvid Compendium/Lore",
+      "template": "05) Homebrew Alley/Templates/Auto Tag/Lore Tag.md"
+    },
+    {
+      "folder": "06) The Corvid Compendium/Lore/03) Pantheons",
+      "template": "05) Homebrew Alley/Templates/Corvid Compendium/Deity.md"
+    },
+    {
+      "folder": "06) The Corvid Compendium/Monsters",
+      "template": "05) Homebrew Alley/Templates/Creature.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}
