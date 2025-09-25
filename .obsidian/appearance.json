@@ -3,5 +3,7 @@
   "enabledCssSnippets": [
     "S - Encoded Fonts",
     "S - Encoded Icons"
-  ]
+  ],
+  "baseFontSize": 14,
+  "baseFontSizeAction": false
 }
