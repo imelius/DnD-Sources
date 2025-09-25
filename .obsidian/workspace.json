@@ -13,14 +13,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-Pocket_Character_Sheet_-_2024.pdf",
+                "file": "D&D/24e/DMguide24e.pdf",
                 "page": 1,
-                "left": -25,
-                "top": 616,
-                "zoom": 0.6060606060606061
+                "zoom": 1
               },
               "icon": "lucide-file-text",
-              "title": "2635317-Pocket_Character_Sheet_-_2024"
+              "title": "DMguide24e"
             }
           }
         ]
@@ -174,8 +172,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e92cce370c148231",
+  "active": "6623ed85f7ea18d6",
   "lastOpenFiles": [
+    "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-Pocket_Character_Sheet_-_2024.pdf",
     "D&D/24e/Monsters",
     "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-pocket_character_sheet.pdf",
     "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-instructions.jpg",
@@ -187,7 +186,6 @@
     "Shadowdark/Shadowdark Quickstart/Shadowdark Player Quickstart - Digital.pdf",
     "Shadowdark/New folder",
     "Shadowdark/Shadowdark Quickstart/Shadowdark Game Master Quickstart - Digital.pdf",
-    "Shadowdark/Shadowdark Quickstart/The Lost Citadel (68 wide x 44 high).png",
-    "Shadowdark/Shadowdark Quickstart/Shadowdark RPG Core-Cursed Scrolls.pdf"
+    "Shadowdark/Shadowdark Quickstart/The Lost Citadel (68 wide x 44 high).png"
   ]
 }
