@@ -4,45 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c789d5ce7cb99fce",
+        "id": "1a0df437db7f6ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "3623994ffb88de8c",
+            "id": "8085ef6b92449b53",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Shadowdark/Shadowdark RPG.pdf",
-                "page": 81,
-                "left": -13,
-                "top": 599,
-                "zoom": 1.1405674948990294
+                "file": "D&D/24e/DMguide24e.pdf",
+                "page": 264,
+                "left": -459,
+                "top": 1382,
+                "zoom": 0.4771033472623099
               },
               "icon": "lucide-file-text",
-              "title": "Shadowdark RPG"
-            }
-          }
-        ]
-      },
-      {
-        "id": "078fb32820e6d248",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "772e6cdb5065d456",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Shadowdark/Shadowdark RPG.pdf",
-                "page": 46,
-                "left": -13,
-                "top": 238,
-                "zoom": 1.1405674948990296
-              },
-              "icon": "lucide-file-text",
-              "title": "Shadowdark RPG"
+              "title": "DMguide24e"
             }
           }
         ]
@@ -109,16 +87,26 @@
     "type": "split",
     "children": [
       {
-        "id": "e697494f7fa481f7",
+        "id": "aa26ed380c2a5fe1",
         "type": "tabs",
         "children": [
           {
-            "id": "e3ddc787985f7fcd",
+            "id": "5dc49904c3dc41ed",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "d3018020ea24568a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Supplement/SandboxGenerator.pdf",
+                "file": "D&D/24e/DMguide24e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,24 +116,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SandboxGenerator"
+              "title": "Backlinks for DMguide24e"
             }
           },
           {
-            "id": "876f584a85d12093",
+            "id": "2d3bca4e94579ba0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D/24e/DMguide24e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from DMguide24e"
             }
           },
           {
-            "id": "8c9b35357bab4e45",
+            "id": "44458d9435068709",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -160,25 +149,25 @@
             }
           },
           {
-            "id": "7fce2cc4e8352db7",
+            "id": "7e6da52c0b9c75f6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "D&D/24e/DMguide24e.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of DMguide24e"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,28 +185,29 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3623994ffb88de8c",
+  "active": "8085ef6b92449b53",
   "lastOpenFiles": [
+    "Supplement/Lazy DM/Lazy Solo 5e.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Core Adventure Generators.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Treasure.md",
+    "Supplement/Lazy DM/Treasure Generator/Treasure Generator.md",
+    "D&D/24e/DMguide24e.pdf",
     "Shadowdark/Shadowdark RPG.pdf",
     "Shadowdark/SoloDark_V1_(PDF).pdf",
-    "Supplement/Lazy DM/Lazy Solo 5e.md",
     "Shadowdark/ShadowDark Character Sheet Fillable.pdf",
     "Shadowdark/Shadowdark Quickstart/Shadowdark Player Quickstart - Digital.pdf",
     "Shadowdark/Shadowdark Quickstart/The Lost Citadel (68 wide x 44 high).png",
     "Shadowdark/Shadowdark Quickstart/Shadowdark RPG Core-Cursed Scrolls.pdf",
-    "Supplement/Lazy DM/Treasure Generator/Treasure Generator.md",
     "Supplement/Lazy DM/NPC Generator/NPC Generator.md",
     "Supplement/Lazy DM/Random Dungeon Monster.md",
     "Supplement/Lazy DM/Lazy Dungeon Master CR Benchmark.md",
     "Supplement/Lazy DM/Treasure Generator/Magical Treasure.md",
     "Supplement/Lazy DM/Treasure Generator/Consumable Treasure.md",
     "Supplement/Lazy DM/Treasure Generator/Gold Per Level.md",
-    "Supplement/Lazy DM/Core Adventure Generators/Treasure.md",
     "Supplement/Lazy DM/Treasure Generator",
     "Supplement/Lazy DM/Random Dungeon Monsters/Random Dungeon Monsters.md",
     "Supplement/Lazy DM/Random Dungeon Monsters",
     "Supplement/Lazy DM/Generic Monster Stats.md",
-    "Supplement/Lazy DM/Core Adventure Generators/Core Adventure Generators.md",
     "Supplement/Lazy DM/Core Adventure Generators/Spells.md",
     "Supplement/Lazy DM/Core Adventure Generators/Traps and Hazards.md",
     "Supplement/Lazy DM/Core Adventure Generators/Dungeon Monsters.md",
@@ -233,8 +223,6 @@
     "Supplement/Lazy DM/NPC Generator/Ancestry.md",
     "Supplement/Lazy DM/NPC Generator",
     "Supplement/Lazy DM/Core Adventure Generators",
-    "Supplement/SoloAdventuresToolbox.pdf",
-    "Supplement/Lazy DM",
     "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-instructions.jpg"
   ]
 }
