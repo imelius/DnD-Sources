@@ -11,10 +11,14 @@
             "id": "40ac2d33b8ba188e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Supplement/Lazy DM/Lazy Solo 5e.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lazy Solo 5e"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4960f2036103e3b2",
@@ -183,6 +186,7 @@
   },
   "active": "40ac2d33b8ba188e",
   "lastOpenFiles": [
+    "Nimble/Nimble2v/GMguide-2.0.1.pdf",
     "Nimble/Nimble2v/Heroes-2.0.1.pdf",
     "Nimble/Nimble2v/CoreRules-2.0.1.pdf",
     "Nimble/Nimble2v/PrinterFriendly/CoreRules-2.0.1-PRINTERFRIENDLY.pdf",
@@ -207,7 +211,6 @@
     "Supplement/Lazy DM/Treasure Generator/Magical Treasure.md",
     "Supplement/Lazy DM/Treasure Generator/Consumable Treasure.md",
     "Supplement/Lazy DM/Treasure Generator/Gold Per Level.md",
-    "Supplement/Lazy DM/Treasure Generator",
     "Supplement/Lazy DM/Random Dungeon Monsters/Random Dungeon Monsters.md",
     "Supplement/Lazy DM/Generic Monster Stats.md",
     "Supplement/Lazy DM/Core Adventure Generators/Spells.md",
