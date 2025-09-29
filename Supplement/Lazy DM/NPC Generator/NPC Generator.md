@@ -1,0 +1,5 @@
+![[Names]]
+![[Ancestry]]
+![[Worldview]]
+![[Appearance and mannerisms]]
+![[Profession]]

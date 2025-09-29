@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "999409e679c3a834",
+        "id": "c789d5ce7cb99fce",
         "type": "tabs",
         "children": [
           {
-            "id": "6623ed85f7ea18d6",
+            "id": "3623994ffb88de8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Supplement/Lazy DM/Generic Monster Stats.md",
-                "mode": "source",
-                "source": false
+                "file": "Shadowdark/Shadowdark RPG.pdf",
+                "page": 81,
+                "left": -13,
+                "top": 599,
+                "zoom": 1.1405674948990294
               },
-              "icon": "lucide-file",
-              "title": "Generic Monster Stats"
+              "icon": "lucide-file-text",
+              "title": "Shadowdark RPG"
+            }
+          }
+        ]
+      },
+      {
+        "id": "078fb32820e6d248",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "772e6cdb5065d456",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Shadowdark/Shadowdark RPG.pdf",
+                "page": 46,
+                "left": -13,
+                "top": 238,
+                "zoom": 1.1405674948990296
+              },
+              "icon": "lucide-file-text",
+              "title": "Shadowdark RPG"
             }
           }
         ]
@@ -41,7 +65,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -172,21 +196,45 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6623ed85f7ea18d6",
+  "active": "3623994ffb88de8c",
   "lastOpenFiles": [
-    "Supplement/Lazy DM/Lazy Dungeon Master CR Benchmark.md",
-    "Supplement/Lazy DM/Generic Monster Stats.md",
-    "Supplement/Lazy DM",
-    "D&D/24e/DMguide24e.pdf",
-    "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-Pocket_Character_Sheet_-_2024.pdf",
-    "D&D/24e/Monsters",
-    "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-pocket_character_sheet.pdf",
-    "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-instructions.jpg",
-    "D&D/Unearthed Arcana/MassCombat.pdf",
-    "D&D/24e/Character Sheets/456029-Druid_2024.pdf",
-    "D&D/24e/Character Sheets/456029-Wizard_2024 1.pdf",
-    "Supplement/SandboxGenerator.pdf",
     "Shadowdark/Shadowdark RPG.pdf",
-    "Shadowdark/Shadowdark Quickstart/The Lost Citadel (68 wide x 44 high).png"
+    "Shadowdark/SoloDark_V1_(PDF).pdf",
+    "Supplement/Lazy DM/Lazy Solo 5e.md",
+    "Shadowdark/ShadowDark Character Sheet Fillable.pdf",
+    "Shadowdark/Shadowdark Quickstart/Shadowdark Player Quickstart - Digital.pdf",
+    "Shadowdark/Shadowdark Quickstart/The Lost Citadel (68 wide x 44 high).png",
+    "Shadowdark/Shadowdark Quickstart/Shadowdark RPG Core-Cursed Scrolls.pdf",
+    "Supplement/Lazy DM/Treasure Generator/Treasure Generator.md",
+    "Supplement/Lazy DM/NPC Generator/NPC Generator.md",
+    "Supplement/Lazy DM/Random Dungeon Monster.md",
+    "Supplement/Lazy DM/Lazy Dungeon Master CR Benchmark.md",
+    "Supplement/Lazy DM/Treasure Generator/Magical Treasure.md",
+    "Supplement/Lazy DM/Treasure Generator/Consumable Treasure.md",
+    "Supplement/Lazy DM/Treasure Generator/Gold Per Level.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Treasure.md",
+    "Supplement/Lazy DM/Treasure Generator",
+    "Supplement/Lazy DM/Random Dungeon Monsters/Random Dungeon Monsters.md",
+    "Supplement/Lazy DM/Random Dungeon Monsters",
+    "Supplement/Lazy DM/Generic Monster Stats.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Core Adventure Generators.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Spells.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Traps and Hazards.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Dungeon Monsters.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Dungeon Wall Decorations.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Dungeon Discoveries.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Chambers.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Condition, Description, and Origin.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Locations, Monuments, and Items.md",
+    "Supplement/Lazy DM/Core Adventure Generators/Quests.md",
+    "Supplement/Lazy DM/NPC Generator/Profession.md",
+    "Supplement/Lazy DM/NPC Generator/Appearance and mannerisms.md",
+    "Supplement/Lazy DM/NPC Generator/Worldview.md",
+    "Supplement/Lazy DM/NPC Generator/Ancestry.md",
+    "Supplement/Lazy DM/NPC Generator",
+    "Supplement/Lazy DM/Core Adventure Generators",
+    "Supplement/SoloAdventuresToolbox.pdf",
+    "Supplement/Lazy DM",
+    "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-instructions.jpg"
   ]
 }
