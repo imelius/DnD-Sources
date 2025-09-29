@@ -11,16 +11,14 @@
             "id": "8085ef6b92449b53",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "D&D/24e/DMguide24e.pdf",
-                "page": 264,
-                "left": -459,
-                "top": 1382,
-                "zoom": 0.4771033472623099
+                "file": "Supplement/Lazy DM/Lazy Solo 5e.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DMguide24e"
+              "icon": "lucide-file",
+              "title": "Lazy Solo 5e"
             }
           }
         ]
@@ -101,12 +99,12 @@
             }
           },
           {
-            "id": "d3018020ea24568a",
+            "id": "2c9561b460f42d0c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D/24e/DMguide24e.pdf",
+                "file": "Supplement/Lazy DM/Lazy Solo 5e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DMguide24e"
+              "title": "Backlinks for Lazy Solo 5e"
             }
           },
           {
-            "id": "2d3bca4e94579ba0",
+            "id": "3cc87ee3465a0020",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D/24e/DMguide24e.pdf",
+                "file": "Supplement/Lazy DM/Lazy Solo 5e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DMguide24e"
+              "title": "Outgoing links from Lazy Solo 5e"
             }
           },
           {
-            "id": "44458d9435068709",
+            "id": "1e70a05c5afb75e0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,18 +147,18 @@
             }
           },
           {
-            "id": "7e6da52c0b9c75f6",
+            "id": "bc4f672d4bfad70d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D/24e/DMguide24e.pdf",
+                "file": "Supplement/Lazy DM/Lazy Solo 5e.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DMguide24e"
+              "title": "Outline of Lazy Solo 5e"
             }
           }
         ]
@@ -187,11 +185,15 @@
   },
   "active": "8085ef6b92449b53",
   "lastOpenFiles": [
+    "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Full.png",
+    "Nimble/Nimble2v/CharacterSheets/Character Sheet (Full) - Form Fillable.pdf",
+    "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Half-2up.png",
+    "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Half.png",
+    "D&D/24e/DMguide24e.pdf",
     "Supplement/Lazy DM/Lazy Solo 5e.md",
     "Supplement/Lazy DM/Core Adventure Generators/Core Adventure Generators.md",
     "Supplement/Lazy DM/Core Adventure Generators/Treasure.md",
     "Supplement/Lazy DM/Treasure Generator/Treasure Generator.md",
-    "D&D/24e/DMguide24e.pdf",
     "Shadowdark/Shadowdark RPG.pdf",
     "Shadowdark/SoloDark_V1_(PDF).pdf",
     "Shadowdark/ShadowDark Character Sheet Fillable.pdf",
@@ -222,7 +224,6 @@
     "Supplement/Lazy DM/NPC Generator/Worldview.md",
     "Supplement/Lazy DM/NPC Generator/Ancestry.md",
     "Supplement/Lazy DM/NPC Generator",
-    "Supplement/Lazy DM/Core Adventure Generators",
     "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-instructions.jpg"
   ]
 }
