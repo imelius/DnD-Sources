@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "ICRPG/ICRPGmaster.pdf",
-                "page": 390,
-                "left": -131,
-                "top": 327,
-                "zoom": 0.9692815779949331
+                "page": 238,
+                "left": -114,
+                "top": 66,
+                "zoom": 1.0167842924357582
               },
               "icon": "lucide-file-text",
               "title": "ICRPGmaster"
@@ -30,16 +30,17 @@
               "type": "pdf",
               "state": {
                 "file": "ICRPG/Assets_Hack_Supernatural.pdf",
-                "page": 2,
+                "page": 1,
                 "left": -94,
-                "top": 224,
+                "top": 796,
                 "zoom": 0.8513257575757576
               },
               "icon": "lucide-file-text",
               "title": "Assets_Hack_Supernatural"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,20 +204,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "917ade35fa714ae2",
+  "active": "1ed80553617c143e",
   "lastOpenFiles": [
-    "ICRPG/Assets_Hack_Supernatural.pdf",
     "ICRPG/ICRPGmaster.pdf",
+    "ICRPG/Assets_Hack_Supernatural.pdf",
+    "ICRPG/Settings/Supernatural/Types/Lore Expert.pdf",
+    "ICRPG/Settings/Supernatural",
+    "ICRPG/Settings",
     "ICRPG/ICRPGQuickstart.pdf",
-    "ICRPG/Types/Hunter.pdf",
+    "ICRPG/Settings/Supernatural/Types/Hunter.pdf",
     "ICRPG/Templates/ICRPG_Type_Template.pdf",
     "ICRPG/Types.md",
     "ICRPG/Types/ICRPG_Type_Template.pdf",
-    "ICRPG/Types",
+    "ICRPG/Settings/Supernatural/Types",
     "Forbidden Lands/Forbidden_Lands_Quickstart.pdf",
-    "ICRPG/Templates",
-    "ICRPG",
-    "New folder",
     "Supplement/Lazy DM/Lazy Solo 5e.md",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Full.png",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Half-2up.png",
