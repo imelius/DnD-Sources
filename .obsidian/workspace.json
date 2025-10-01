@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ICRPG/ICRPGmaster.pdf",
-                "page": 237,
-                "left": -114,
-                "top": 22,
-                "zoom": 1.0167842924357584
+                "file": "ICRPG/ICRPGQuickstart.pdf",
+                "page": 35,
+                "left": -145,
+                "top": 11,
+                "zoom": 1.3852184637068359
               },
               "icon": "lucide-file-text",
-              "title": "ICRPGmaster"
+              "title": "ICRPGQuickstart"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4960f2036103e3b2",
@@ -187,11 +186,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "917ade35fa714ae2",
+  "active": "e92cce370c148231",
   "lastOpenFiles": [
-    "ICRPG/Templates/ICRPG_Type_Template.pdf",
     "ICRPG/ICRPGmaster.pdf",
     "ICRPG/Types/Hunter.pdf",
+    "ICRPG/Templates/ICRPG_Type_Template.pdf",
     "ICRPG/ICRPGQuickstart.pdf",
     "ICRPG/Types.md",
     "ICRPG/Types/ICRPG_Type_Template.pdf",
