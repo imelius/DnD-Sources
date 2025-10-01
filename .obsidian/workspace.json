@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "68f8cf52bd928e08",
+        "id": "06653a56795e454e",
         "type": "tabs",
         "children": [
           {
-            "id": "40ac2d33b8ba188e",
+            "id": "917ade35fa714ae2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Supplement/Lazy DM/Lazy Solo 5e.md",
-                "mode": "source",
-                "source": false
+                "file": "ICRPG/ICRPGmaster.pdf",
+                "page": 237,
+                "left": -114,
+                "top": 22,
+                "zoom": 1.0167842924357584
               },
-              "icon": "lucide-file",
-              "title": "Lazy Solo 5e"
+              "icon": "lucide-file-text",
+              "title": "ICRPGmaster"
             }
           }
         ]
@@ -41,7 +43,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4960f2036103e3b2",
@@ -184,27 +187,28 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "40ac2d33b8ba188e",
+  "active": "917ade35fa714ae2",
   "lastOpenFiles": [
-    "Nimble/Nimble2v/GMguide-2.0.1.pdf",
-    "Nimble/Nimble2v/Heroes-2.0.1.pdf",
-    "Nimble/Nimble2v/CoreRules-2.0.1.pdf",
-    "Nimble/Nimble2v/PrinterFriendly/CoreRules-2.0.1-PRINTERFRIENDLY.pdf",
+    "ICRPG/Templates/ICRPG_Type_Template.pdf",
+    "ICRPG/ICRPGmaster.pdf",
+    "ICRPG/Types/Hunter.pdf",
+    "ICRPG/ICRPGQuickstart.pdf",
+    "ICRPG/Types.md",
+    "ICRPG/Types/ICRPG_Type_Template.pdf",
+    "ICRPG/Types",
+    "Forbidden Lands/Forbidden_Lands_Quickstart.pdf",
+    "ICRPG/Templates",
+    "ICRPG",
+    "New folder",
     "Supplement/Lazy DM/Lazy Solo 5e.md",
+    "Nimble/Nimble2v/GMguide-2.0.1.pdf",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Full.png",
-    "Nimble/Nimble2v/CharacterSheets/Character Sheet (Full) - Form Fillable.pdf",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Half-2up.png",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Half.png",
-    "D&D/24e/DMguide24e.pdf",
     "Supplement/Lazy DM/Core Adventure Generators/Core Adventure Generators.md",
     "Supplement/Lazy DM/Core Adventure Generators/Treasure.md",
     "Supplement/Lazy DM/Treasure Generator/Treasure Generator.md",
-    "Shadowdark/Shadowdark RPG.pdf",
-    "Shadowdark/SoloDark_V1_(PDF).pdf",
-    "Shadowdark/ShadowDark Character Sheet Fillable.pdf",
-    "Shadowdark/Shadowdark Quickstart/Shadowdark Player Quickstart - Digital.pdf",
     "Shadowdark/Shadowdark Quickstart/The Lost Citadel (68 wide x 44 high).png",
-    "Shadowdark/Shadowdark Quickstart/Shadowdark RPG Core-Cursed Scrolls.pdf",
     "Supplement/Lazy DM/NPC Generator/NPC Generator.md",
     "Supplement/Lazy DM/Random Dungeon Monster.md",
     "Supplement/Lazy DM/Lazy Dungeon Master CR Benchmark.md",
@@ -225,7 +229,6 @@
     "Supplement/Lazy DM/NPC Generator/Profession.md",
     "Supplement/Lazy DM/NPC Generator/Appearance and mannerisms.md",
     "Supplement/Lazy DM/NPC Generator/Worldview.md",
-    "Supplement/Lazy DM/NPC Generator/Ancestry.md",
     "D&D/5e/Character Sheets/Pocket Char Sheets/2635317-instructions.jpg"
   ]
 }
