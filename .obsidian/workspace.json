@@ -14,33 +14,16 @@
               "type": "pdf",
               "state": {
                 "file": "ICRPG/ICRPGmaster.pdf",
-                "page": 238,
-                "left": -114,
-                "top": 66,
-                "zoom": 1.0167842924357582
+                "page": 69,
+                "left": -386,
+                "top": 652,
+                "zoom": 0.9692815779949332
               },
               "icon": "lucide-file-text",
               "title": "ICRPGmaster"
             }
-          },
-          {
-            "id": "1ed80553617c143e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ICRPG/Assets_Hack_Supernatural.pdf",
-                "page": 1,
-                "left": -94,
-                "top": 796,
-                "zoom": 0.8513257575757576
-              },
-              "icon": "lucide-file-text",
-              "title": "Assets_Hack_Supernatural"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4960f2036103e3b2",
@@ -204,15 +186,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1ed80553617c143e",
+  "active": "917ade35fa714ae2",
   "lastOpenFiles": [
+    "ICRPG/Settings/Supernatural/Types/Hunter.pdf",
     "ICRPG/ICRPGmaster.pdf",
     "ICRPG/Assets_Hack_Supernatural.pdf",
     "ICRPG/Settings/Supernatural/Types/Lore Expert.pdf",
     "ICRPG/Settings/Supernatural",
     "ICRPG/Settings",
     "ICRPG/ICRPGQuickstart.pdf",
-    "ICRPG/Settings/Supernatural/Types/Hunter.pdf",
     "ICRPG/Templates/ICRPG_Type_Template.pdf",
     "ICRPG/Types.md",
     "ICRPG/Types/ICRPG_Type_Template.pdf",
