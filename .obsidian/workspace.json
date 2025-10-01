@@ -13,14 +13,30 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ICRPG/ICRPGQuickstart.pdf",
-                "page": 35,
-                "left": -145,
-                "top": 11,
-                "zoom": 1.3852184637068359
+                "file": "ICRPG/ICRPGmaster.pdf",
+                "page": 390,
+                "left": -131,
+                "top": 327,
+                "zoom": 0.9692815779949331
               },
               "icon": "lucide-file-text",
-              "title": "ICRPGQuickstart"
+              "title": "ICRPGmaster"
+            }
+          },
+          {
+            "id": "1ed80553617c143e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ICRPG/Assets_Hack_Supernatural.pdf",
+                "page": 2,
+                "left": -94,
+                "top": 224,
+                "zoom": 0.8513257575757576
+              },
+              "icon": "lucide-file-text",
+              "title": "Assets_Hack_Supernatural"
             }
           }
         ]
@@ -80,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4960f2036103e3b2",
@@ -186,12 +203,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e92cce370c148231",
+  "active": "917ade35fa714ae2",
   "lastOpenFiles": [
+    "ICRPG/Assets_Hack_Supernatural.pdf",
     "ICRPG/ICRPGmaster.pdf",
+    "ICRPG/ICRPGQuickstart.pdf",
     "ICRPG/Types/Hunter.pdf",
     "ICRPG/Templates/ICRPG_Type_Template.pdf",
-    "ICRPG/ICRPGQuickstart.pdf",
     "ICRPG/Types.md",
     "ICRPG/Types/ICRPG_Type_Template.pdf",
     "ICRPG/Types",
@@ -200,7 +218,6 @@
     "ICRPG",
     "New folder",
     "Supplement/Lazy DM/Lazy Solo 5e.md",
-    "Nimble/Nimble2v/GMguide-2.0.1.pdf",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Full.png",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Half-2up.png",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Half.png",
