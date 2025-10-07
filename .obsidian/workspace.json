@@ -8,19 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "917ade35fa714ae2",
+            "id": "9c37ffcba15431cb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ICRPG/ICRPGmaster.pdf",
-                "page": 69,
-                "left": -386,
-                "top": 652,
-                "zoom": 0.9692815779949332
-              },
-              "icon": "lucide-file-text",
-              "title": "ICRPGmaster"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -186,10 +180,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "917ade35fa714ae2",
+  "active": "9c37ffcba15431cb",
   "lastOpenFiles": [
-    "ICRPG/Settings/Supernatural/Types/Hunter.pdf",
+    "Supplement/Lazy DM/Lazy Dungeon Master CR Benchmark.md",
     "ICRPG/ICRPGmaster.pdf",
+    "ICRPG/Settings/Supernatural/Types/Hunter.pdf",
     "ICRPG/Assets_Hack_Supernatural.pdf",
     "ICRPG/Settings/Supernatural/Types/Lore Expert.pdf",
     "ICRPG/Settings/Supernatural",
@@ -199,7 +194,6 @@
     "ICRPG/Types.md",
     "ICRPG/Types/ICRPG_Type_Template.pdf",
     "ICRPG/Settings/Supernatural/Types",
-    "Forbidden Lands/Forbidden_Lands_Quickstart.pdf",
     "Supplement/Lazy DM/Lazy Solo 5e.md",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Full.png",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Half-2up.png",
@@ -210,7 +204,6 @@
     "Shadowdark/Shadowdark Quickstart/The Lost Citadel (68 wide x 44 high).png",
     "Supplement/Lazy DM/NPC Generator/NPC Generator.md",
     "Supplement/Lazy DM/Random Dungeon Monster.md",
-    "Supplement/Lazy DM/Lazy Dungeon Master CR Benchmark.md",
     "Supplement/Lazy DM/Treasure Generator/Magical Treasure.md",
     "Supplement/Lazy DM/Treasure Generator/Consumable Treasure.md",
     "Supplement/Lazy DM/Treasure Generator/Gold Per Level.md",
