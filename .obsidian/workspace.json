@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "D&D/24e/DMguide24e.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 321,
+                "left": -688,
+                "top": 158,
+                "zoom": 0.48970831759681593
               },
               "icon": "lucide-file-text",
               "title": "DMguide24e"
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4960f2036103e3b2",
