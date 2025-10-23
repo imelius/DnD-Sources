@@ -76,5 +76,13 @@
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
   "version": "11.4.2",
-  "viewResults": []
+  "viewResults": [
+    {
+      "result": "340000",
+      "original": "8d8*10000",
+      "resultText": "8d8*10000\n[6, 5, 4, 6, 2, 3, 6, 2]*10000",
+      "timestamp": 1761183977790,
+      "id": "pAUfWqf7MY3W"
+    }
+  ]
 }

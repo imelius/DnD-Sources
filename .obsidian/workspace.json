@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c37ffcba15431cb",
+            "id": "d0fecbe85ad0db12",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "D&D/24e/DMguide24e.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "DMguide24e"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4960f2036103e3b2",
@@ -161,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 328.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,9 +185,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9c37ffcba15431cb",
+  "active": "d0fecbe85ad0db12",
   "lastOpenFiles": [
     "Supplement/Lazy DM/Lazy Dungeon Master CR Benchmark.md",
+    "Supplement/Lazy DM/Generic Monster Stats.md",
+    "D&D/Unearthed Arcana/MassCombat.pdf",
     "ICRPG/ICRPGmaster.pdf",
     "ICRPG/Settings/Supernatural/Types/Hunter.pdf",
     "ICRPG/Assets_Hack_Supernatural.pdf",
@@ -193,7 +200,6 @@
     "ICRPG/Templates/ICRPG_Type_Template.pdf",
     "ICRPG/Types.md",
     "ICRPG/Types/ICRPG_Type_Template.pdf",
-    "ICRPG/Settings/Supernatural/Types",
     "Supplement/Lazy DM/Lazy Solo 5e.md",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Full.png",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Half-2up.png",
@@ -208,7 +214,6 @@
     "Supplement/Lazy DM/Treasure Generator/Consumable Treasure.md",
     "Supplement/Lazy DM/Treasure Generator/Gold Per Level.md",
     "Supplement/Lazy DM/Random Dungeon Monsters/Random Dungeon Monsters.md",
-    "Supplement/Lazy DM/Generic Monster Stats.md",
     "Supplement/Lazy DM/Core Adventure Generators/Spells.md",
     "Supplement/Lazy DM/Core Adventure Generators/Traps and Hazards.md",
     "Supplement/Lazy DM/Core Adventure Generators/Dungeon Monsters.md",
