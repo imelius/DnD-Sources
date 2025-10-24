@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "D&D/24e/DMguide24e.pdf",
-                "page": 321,
-                "left": -688,
-                "top": 158,
-                "zoom": 0.48970831759681593
+                "file": "Nimble/Nimble2v/GMguide-2.0.1.pdf",
+                "page": 1,
+                "left": -310,
+                "top": 599,
+                "zoom": 1.1326678717099297
               },
               "icon": "lucide-file-text",
-              "title": "DMguide24e"
+              "title": "GMguide-2.0.1"
             }
           }
         ]
@@ -186,21 +186,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d0fecbe85ad0db12",
+  "active": "e92cce370c148231",
   "lastOpenFiles": [
+    "Nimble/Nimble2v/Extended Bestiary/Goblins1.1.pdf",
+    "Nimble/Nimble2v/Heroes-2.0.1.pdf",
+    "Nimble/Nimble2v/Extended Classes/Hexbinder1.8.pdf",
+    "Nimble/Nimble2v/Extended Classes/Artificer1.7.pdf",
+    "Nimble/Nimble2v/Extended Classes",
+    "Nimble/Nimble2v/PrinterFriendly/Heroes-2.0.1-PRINTERFRIENDLY.pdf",
+    "Nimble/Nimble2v/Extended Bestiary/Artificer1.7.pdf",
+    "Nimble/Nimble2v/Extended Bestiary/DeathKnights.pdf",
+    "Nimble/Nimble2v/GMguide-2.0.1.pdf",
     "Supplement/Lazy DM/Lazy Dungeon Master CR Benchmark.md",
+    "Nimble/Nimble2v/Extended Bestiary/Troglodytes.pdf",
+    "Nimble/Nimble2v/Extended Bestiary/NimbleOrcs.pdf",
     "Supplement/Lazy DM/Generic Monster Stats.md",
-    "D&D/Unearthed Arcana/MassCombat.pdf",
-    "ICRPG/ICRPGmaster.pdf",
-    "ICRPG/Settings/Supernatural/Types/Hunter.pdf",
-    "ICRPG/Assets_Hack_Supernatural.pdf",
-    "ICRPG/Settings/Supernatural/Types/Lore Expert.pdf",
-    "ICRPG/Settings/Supernatural",
-    "ICRPG/Settings",
-    "ICRPG/ICRPGQuickstart.pdf",
-    "ICRPG/Templates/ICRPG_Type_Template.pdf",
     "ICRPG/Types.md",
-    "ICRPG/Types/ICRPG_Type_Template.pdf",
     "Supplement/Lazy DM/Lazy Solo 5e.md",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Full.png",
     "Nimble/Nimble2v/CharacterSheets/CharacterSheet-Half-2up.png",
