@@ -11,16 +11,12 @@
             "id": "d0fecbe85ad0db12",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Nimble/Nimble2v/GMguide-2.0.1.pdf",
-                "page": 1,
-                "left": -310,
-                "top": 599,
-                "zoom": 1.1326678717099297
+                "file": "Nimble/Nimble2v/Nimble2DigitalExtras/QuickResting.png"
               },
-              "icon": "lucide-file-text",
-              "title": "GMguide-2.0.1"
+              "icon": "lucide-image",
+              "title": "QuickResting"
             }
           }
         ]
@@ -186,20 +182,21 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e92cce370c148231",
+  "active": "d0fecbe85ad0db12",
   "lastOpenFiles": [
-    "Nimble/Nimble2v/Extended Bestiary/Goblins1.1.pdf",
-    "Nimble/Nimble2v/Heroes-2.0.1.pdf",
-    "Nimble/Nimble2v/Extended Classes/Hexbinder1.8.pdf",
-    "Nimble/Nimble2v/Extended Classes/Artificer1.7.pdf",
-    "Nimble/Nimble2v/Extended Classes",
-    "Nimble/Nimble2v/PrinterFriendly/Heroes-2.0.1-PRINTERFRIENDLY.pdf",
-    "Nimble/Nimble2v/Extended Bestiary/Artificer1.7.pdf",
-    "Nimble/Nimble2v/Extended Bestiary/DeathKnights.pdf",
+    "Nimble/Nimble2v/Nimble2DigitalExtras/QuickCharacterCreation.png",
+    "Nimble/Nimble2v/Nimble2DigitalExtras/QuickChaosTable.png",
+    "Nimble/Nimble2v/Nimble2DigitalExtras/monstercardsBACK.pdf",
+    "Nimble/Nimble2v/Nimble2DigitalExtras/GMScreen.pdf",
+    "Nimble/Nimble2v/Hero Resources/Spells.pdf",
+    "Nimble/Nimble2v/Hero Resources/Ancestries&Backgrounds.pdf",
+    "Nimble/Nimble2v/Hero Resources/Classes/Cheat.pdf",
     "Nimble/Nimble2v/GMguide-2.0.1.pdf",
+    "Nimble/Nimble2v/Extended Material",
+    "Nimble/Nimble2v/Extended Material/ClassAddon.pdf",
+    "Nimble/Nimble2v/Extended Material/BestiaryAddon.pdf",
+    "Nimble/Nimble2v/Extended Material/Extended Bestiary/Goblins1.1.pdf",
     "Supplement/Lazy DM/Lazy Dungeon Master CR Benchmark.md",
-    "Nimble/Nimble2v/Extended Bestiary/Troglodytes.pdf",
-    "Nimble/Nimble2v/Extended Bestiary/NimbleOrcs.pdf",
     "Supplement/Lazy DM/Generic Monster Stats.md",
     "ICRPG/Types.md",
     "Supplement/Lazy DM/Lazy Solo 5e.md",
